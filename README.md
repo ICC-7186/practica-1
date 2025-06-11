@@ -1,6 +1,7 @@
 # Práctica 1: Expresiones y Tipos. 📌
 
 Nombre:
+
 NumCuenta:
 
 En esta práctica se tocarán los temas de las expresiones tanto aritmércas como lógicas, así como el uso de la clase _String_ y _Math_.
